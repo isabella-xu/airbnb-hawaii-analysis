@@ -25,7 +25,7 @@ The source is the open data shared by Airbnb available at [Inside Airbnnb site](
 ### Author: 
 Isabella Xu<br />
 <br />
-Please go to my blog post for this project on [Medium](https://medium.com/@isabella.xu/must-know-about-airbnb-in-hawaii-212f8d10c5c3) for more details.
+Please go to my blog post for this project on [Medium](https://medium.com/@isabella.xu/starbucks-mobile-app-offer-analysis-e82c017f21ea) for more details.
 
 ### Acknowledgements
 This project is part of the Data Scientist Nanodegree from Udacity. This project is inspired by the [Seattle Airbnb Project](https://www.kaggle.com/airbnb/seattle/data) and [Boston Airbnb Project](https://www.kaggle.com/airbnb/boston) on Kaggle. <br/>
